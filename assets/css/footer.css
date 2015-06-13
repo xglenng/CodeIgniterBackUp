@@ -1,0 +1,10 @@
+
+#footer1 a {
+color: #FFFFFF;
+font-size: 95%;
+}
+ 
+#footer1 a:hover {
+color: #E9D766;
+text-decoration: none;
+}
