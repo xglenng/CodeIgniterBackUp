@@ -27,7 +27,7 @@
       <div class="row">
         <ul class="nav navbar-nav">
           <li class="active"><a href="index.php">Home</a></li>
-          <li><a href="contact.php">Contact Us</a></li>
+          <li><a href="<?php echo site_url('home/view_messages') ?>">Contact Us Now</a></li>
           <li><a href="#">Our Services</a></li>       
               <!-- <li class="divider"></li> -->
               <form class="navbar-form navbar-left" role="search">
