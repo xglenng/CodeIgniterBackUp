@@ -1,8 +1,10 @@
+<head>
+
      <link rel="stylesheet" type="text/css" href=".\assets\css\stylish.css">
      <link rel="stylesheet" type="text/css" href=".\assets\css\font-awesome.css">
      <link rel="stylesheet" type="text/css" href=".\assets\css\social-buttons.css">
      <link rel="stylesheet" type="text/css" href=".\assets\css\bootstrap.css">
-
+</head>
 <div class="footer">
 
 <footer>

@@ -32,7 +32,7 @@
                 <div class="col-sm-12 controls">
                                       
                                       
-                                      <input id="btn-login" href="#" class="btn btn-success" Login type='Submit' value='Login' />
+                                      <input id="btn-login" href="#" class="btn btn-success" Login type='Submit' value='Submit' />
                                     </div>
                                 </div>
         </form>
